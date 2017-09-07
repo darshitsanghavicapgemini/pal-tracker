@@ -1,0 +1,12 @@
+cf-api-url: https://api.url
+cf-username: USERNAME
+cf-password: PASSWORD
+cf-org: ORG
+github-repository: git@github.com:REPO.git
+aws-access-key-id: AWS_ACCESS_KEY
+aws-secret-access-key: AWS_SECRET_ACCESS_KEY
+aws-bucket: S3_BUCKET
+github-private-key: |
+  -----BEGIN RSA PRIVATE KEY-----
+  PASTE RSA KEY HERE
+  -----END RSA PRIVATE KEY-----
