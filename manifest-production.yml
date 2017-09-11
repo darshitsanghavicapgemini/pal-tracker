@@ -5,3 +5,5 @@ applications:
   host: darshit-pal-tracker
   services:
       - tracker-database
+  env:
+      MANAGEMENT_SECURITY_ENABLED: true
